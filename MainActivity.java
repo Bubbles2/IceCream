@@ -38,6 +38,8 @@ import android.provider.ContactsContract;
 
 public class MainActivity extends Activity implements OnItemClickListener{
 
+    // New Line
+    
     
     // Test again have deleted two lines
     
