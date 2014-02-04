@@ -39,16 +39,7 @@ import android.provider.ContactsContract;
 public class MainActivity extends Activity implements OnItemClickListener{
 
     
-    // Even More  Add Code
-    //
-    //
-
-    
-    
-    // More Add Code
-    //
-    //
-    
+    // Test again have deleted two lines
     
 // Add Code
 //
