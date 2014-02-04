@@ -38,7 +38,9 @@ import android.provider.ContactsContract;
 
 public class MainActivity extends Activity implements OnItemClickListener{
 
-
+// Add Code
+//
+//
 	boolean advSearchSelected =false;
 	public Cursor c;
 	int contactGroup;
